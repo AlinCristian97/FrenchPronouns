@@ -67,6 +67,8 @@ public class Constants
         public const string Celle = "celle";
         public const string Ceux = "ceux";
         public const string Celles = "celles";
+        public const string Cela = "cela";
+        public const string Ca = "ça";
     }
 
     public static class Relative
