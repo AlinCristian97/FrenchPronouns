@@ -13,6 +13,17 @@ public class Constants
         public const string Indefinite = "Indefinite";
         public const string Disjunctive = "Disjunctive";
         public const string Reciprocal = "Reciprocal";
+        public const string Emphatic = "Emphatic";
+    }
+
+    public static class Emphatic
+    {
+        public const string LuiMeme = "lui-même";
+        public const string ElleMeme = "elle-même";
+        public const string NousMemes = "nous-mêmes";
+        public const string VousMemes = "vous-mêmes";
+        public const string EuxMemes = "eux-mêmes";
+        public const string EllesMemes = "elles-mêmes";
     }
 
     public static class Personal
