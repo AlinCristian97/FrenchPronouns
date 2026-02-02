@@ -14,6 +14,7 @@ public class Constants
         public const string Disjunctive = "Disjunctive";
         public const string Reciprocal = "Reciprocal";
         public const string Emphatic = "Emphatic";
+        public const string Contracted = "Contracted";
     }
 
     public static class Emphatic
@@ -142,5 +143,15 @@ public class Constants
         public const string Se = "se";
         public const string LUnLEAutre = "l’un l’autre";
         public const string LesUnsLesAutres = "les uns les autres";
+    }
+
+    public static class Contracted
+    {
+        public const string Auquel = "auquel";
+        public const string Auxquels = "auxquels";
+        public const string Auxquelles = "auxquelles";
+        public const string Duquel = "duquel";
+        public const string Desquels = "desquels";
+        public const string Desquelles = "desquelles";
     }
 }
