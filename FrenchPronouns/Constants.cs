@@ -124,6 +124,10 @@ public class Constants
         public const string Toute = "toute";
         public const string Tous = "tous";
         public const string Toutes = "toutes";
+        public const string Tel = "tel";
+        public const string Telle = "telle";
+        public const string Tels = "tels";
+        public const string Telles = "telles";
     }
 
     public static class Disjunctive
