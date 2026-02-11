@@ -128,6 +128,7 @@ public class Constants
         public const string Telle = "telle";
         public const string Tels = "tels";
         public const string Telles = "telles";
+        public const string Plupart = "plupart";
     }
 
     public static class Disjunctive
