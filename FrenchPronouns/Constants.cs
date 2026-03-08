@@ -67,6 +67,11 @@ public class Constants
         public const string Vos = "vos";
         public const string Leur = "leur";
         public const string Leurs = "leurs";
+
+        public const string Sien = "sien";
+        public const string Sienne = "sienne";
+        public const string Siens = "siens";
+        public const string Siennes = "siennes";
     }
 
     public static class Demonstrative
